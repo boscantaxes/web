@@ -1,0 +1,64 @@
+Servicios:
+Taxes, Itin, Payroll, Licencias Profesionales, Reembolso, Creación de Empresas.  
+
+Taxes:
+"En Boscan Taxes, en Utah, Estados Unidos, brindamos asesoría experta para declaraciones 
+de impuestos ante el IRS, asegurando cumplimiento fiscal eficiente."
+
+payroll
+Boscan Taxes en Utah, Estados Unidos, gestiona nóminas (payroll) con precisión, 
+asegurando pagos correctos y cumplimiento de obligaciones laborales y fiscales.
+
+reembolso
+"Boscan Taxes en Utah, Estados Unidos, gestiona reembolsos fiscales, 
+asegurando que recibas el monto adecuado de tus impuestos oportunamente.
+
+licencias profesionales
+Boscan Taxes en Utah, Estados Unidos, ofrece asesoría para obtener y 
+renovar licencias profesionales, 
+facilitando el cumplimiento de requisitos legales.
+
+creacion de empresas
+
+
+///////////////////////////
+
+    <!--========METADATOS DESCRIPTIVOS========-->
+    <meta property="og:title" content="Boscan Taxes" />
+    <meta property="og:description" content="Escritorio Contable: Taxes, Itin, Payroll, 
+        Creación de Empresas, Reembolso, Licencias Profesionales. 
+        Contáctanos al WhatsApp: (385)352-6954." />
+    <meta property="og:image" content="https://boscantaxes.github.io/contador/card/profile.PNG" />
+    <meta property="og:url" content="https://boscantaxes.github.io/contador/card/index.html" />
+    <meta property="og:type" content="website" />
+    <meta name="keywords" content="taxes, itin, payroll, creación de empresas, reembolso, 
+        licencias profesionales, accountant near by me in utah, utah, estados unidos" />
+    <meta name="author" content="Boscan Taxes" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!--=====FIN DE METADATOS DESCRIPTIVOS====-->
+	
+	//////////////////
+	Preparación de Impuestos Preparamos tus impuestos personales y comerciales, maximizando deducciones y beneficios.
+
+Contabilidad para Empresas Servicios contables completos para pequeñas y medianas empresas, asegurando precisión financiera.
+
+Planificación Financiera Asesoría estratégica para gestionar tus finanzas y alcanzar tus objetivos económicos.
+
+Consultoría Fiscal Orientación experta para minimizar impuestos y optimizar tu situación fiscal.
+
+Auditorías Internas Revisión detallada de tus registros financieros para asegurar cumplimiento y exactitud.
+
+Contabilidad Bilingüe Atención en español e inglés, brindando soluciones contables accesibles a todos.
+
+Estos servicios cubren las necesidades clave tanto de individuos como de empresas, y el resumen de cada uno está diseñado para ser directo y claro.
+////////////////////
+
+Tú dijiste:
+agrega un servicio sobre asesoria a emprendedores que inician  pyme
+ChatGPT Plus
+ChatGPT
+Aquí tienes el servicio agregado:
+
+Asesoría para Emprendedores Apoyo integral para iniciar y gestionar tu PYME con éxito y sostenibilidad.
+Este servicio está orientado a los emprendedores que necesitan orientación en la fase inicial de su negocio, abarcando desde la planificación financiera hasta la gestión fiscal.
+
